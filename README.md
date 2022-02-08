@@ -1,1 +1,1 @@
-# LED(arduimo)-that-changes-according-to-the-detected-color
+# LED(arduino)-that-changes-according-to-the-detected-color
